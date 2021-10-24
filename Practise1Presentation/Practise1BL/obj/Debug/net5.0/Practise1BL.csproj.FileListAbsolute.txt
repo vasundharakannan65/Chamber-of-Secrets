@@ -1,0 +1,15 @@
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\bin\Debug\net5.0\Practise1BL.deps.json
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\bin\Debug\net5.0\Practise1BL.dll
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\bin\Debug\net5.0\ref\Practise1BL.dll
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\bin\Debug\net5.0\Practise1BL.pdb
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\bin\Debug\net5.0\Practise1DA.dll
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\bin\Debug\net5.0\Practise1DA.pdb
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\obj\Debug\net5.0\Practise1BL.csproj.AssemblyReference.cache
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\obj\Debug\net5.0\Practise1BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\obj\Debug\net5.0\Practise1BL.AssemblyInfoInputs.cache
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\obj\Debug\net5.0\Practise1BL.AssemblyInfo.cs
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\obj\Debug\net5.0\Practise1BL.csproj.CoreCompileInputs.cache
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\obj\Debug\net5.0\Practise1BL.csproj.CopyComplete
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\obj\Debug\net5.0\Practise1BL.dll
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\obj\Debug\net5.0\ref\Practise1BL.dll
+C:\Users\vasundharask\source\repos\Practise1Presentation\Practise1BL\obj\Debug\net5.0\Practise1BL.pdb
